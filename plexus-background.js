@@ -1,4 +1,3 @@
-
 // Advanced Interactive Plexus/Constellation Background
 const canvas = document.getElementById('plexus-bg');
 const ctx = canvas.getContext('2d');
